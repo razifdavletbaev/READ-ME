@@ -33,6 +33,9 @@ Master’s and Bachelor’s in Geology – Ufa State Technical Petroleum Univers
 My background in geology sharpened my analytical mindset and ability to handle large datasets.
 
 📫 How to reach me:
+
 Email: davletbaevrazif@gmail.com
+
 LinkedIn: linkedin.com/in/razifdavletbaev
+
 Let's connect and collaborate on making data work for business success!
