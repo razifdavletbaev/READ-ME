@@ -1,5 +1,6 @@
 Hi there, I'm Razif Davletbaev 👋
 Business Intelligence Analyst | Data Enthusiast | Problem Solver
+
 🔍 I’m a results-driven Business Intelligence Analyst with a passion for transforming complex datasets into actionable insights that help businesses make informed decisions. Skilled in leveraging Tableau, Power BI, and SQL to create compelling visualizations, optimize processes, and deliver data-driven business strategies.
 
 💼 Skills:
@@ -8,6 +9,7 @@ Data Visualization: Tableau, Power BI
 Statistical Analysis & Cohort Analysis
 Business Strategy
 Critical Thinking & Communication
+
 📊 Key Projects:
 Data Visualization with Tableau
 
